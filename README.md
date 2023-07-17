@@ -1,2 +1,2 @@
 # Attendance_system
-Using Python and the pre-trained Model face recognition, we created a code that identifies the names of the people in the camp and recognizes them in real-time.
+Using Python and pre-trained sample face recognition, we created code that identifies the names of people in the camp, recognizes them in real time, and then saves them to a cvs file..
