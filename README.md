@@ -2,9 +2,6 @@
 
 Run :
 
-https://github.com/marwh22/attandce_system/assets/85491809/6e7b9ee1-763a-4eda-9866-94fe6f41250f
-
-
 This project represents an attendance system using face recognition. Here's a breakdown of the code:
 
 1. Import the necessary libraries: `cv2` for computer vision tasks, `datetime` for time-related operations, `face_recognition` for face recognition functionalities, `csv` for CSV file operations, and `os` for interacting with the operating system.
